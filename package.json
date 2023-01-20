@@ -1,0 +1,24 @@
+{
+    "name": "class2",
+    "version": "1.0.0",
+    "description": "",
+    "main": "counternoclosure.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/KoharAmit/RichSem4Class2.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/KoharAmit/RichSem4Class2/issues"
+    },
+    "homepage": "https://github.com/KoharAmit/RichSem4Class2#readme",
+    "dependencies": {
+        "accounting": "^0.4.1",
+        "weather-js": "^2.0.0"
+    }
+}
